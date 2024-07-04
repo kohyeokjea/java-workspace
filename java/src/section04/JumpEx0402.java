@@ -1,16 +1,11 @@
 package section04;
 
-public class JumpEx0401 {
+public class JumpEx0402 {
     public static void main(String[] args) {
+        int money = 2000;
+        boolean hasCard = true;
 
-        boolean isRain = true;
-
-        if (isRain) {
-            System.out.println("우산 가져가라");
-        }
-
-        boolean money = false;
-        if (money) {
+        if (money >= 3000 || hasCard) {
             System.out.println("택시를 타고 가라");
         } else {
             System.out.println("걸어가라");
