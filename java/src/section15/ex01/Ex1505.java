@@ -1,6 +1,10 @@
 package section15.ex01;
 
-class SampleEx05 {
+class SampleEx05 extends Object{    
+    // @Override
+    // public boolean equals(Object object){
+    //     return (this == object);
+    // }
 }
 
 public class Ex1505 {
