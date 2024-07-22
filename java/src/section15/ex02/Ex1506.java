@@ -1,4 +1,4 @@
-package section15.ex01;
+package section15.ex02;
 
 import java.util.Objects;
 
