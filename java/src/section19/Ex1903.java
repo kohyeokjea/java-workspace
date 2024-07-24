@@ -23,7 +23,6 @@ public class Ex1903 {
         System.out.println(getDigitCount(2));
         System.out.println(getDigitCount(3999));
 
-
         System.out.println(getDigitCount2(33));
         System.out.println(getDigitCount2(102939));
     }
